@@ -17,4 +17,4 @@ My cheeseburger with a side of CSS should look like this:
 * Change the color of the text to yellow
 * Add more HTML and style it in the CSS to add more toppings to your cheeseburger. Here's a cheeseburger with lettuce and tomato:
 
-![loaded-cheeseburger](/images/loaded-cheeseburger.png)# NashWD-1D
+![loaded-cheeseburger](/images/loaded-cheeseburger.png)
